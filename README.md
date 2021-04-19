@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I’m Connor.
 
-<!--
-**conmas/conmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a product leader and strategist in Chicago, currently working on the [McDonald’s app](https://apps.apple.com/us/app/mcdonalds/id922103212). I’m passionate about human-centric product design, accessible software, and digital privacy. I like coffee, Marvel movies, and talking with my hands.
 
-Here are some ideas to get you started:
+I use this Github account to store the source code for my website projects and experiments with SwiftUI. Contributions or suggestions on public repos are more than welcome.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch.
+
+- [Website](https://cnnr.land)
+- [Twitter](https://www.twitter.com/conmas/)
+- [Instagram](https://www.instagram.com/conmas/)
+- [LinkedIn](https://www.linkedin.com/in/cnnrmsn/)
+- [Apple Music](https://itunes.apple.com/profile/cnnr/)
+- [Email](mailto:connormason@icloud.com)
+- [iMessage](sms:connormason@icloud.com)
