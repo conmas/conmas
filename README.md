@@ -10,6 +10,4 @@ I use this Github account to store the source code for my website projects and e
 - [Twitter](https://www.twitter.com/conmas/)
 - [Instagram](https://www.instagram.com/conmas/)
 - [LinkedIn](https://www.linkedin.com/in/cnnrmsn/)
-- [Apple Music](https://itunes.apple.com/profile/cnnr/)
 - [Email](mailto:connormason@icloud.com)
-- [iMessage](sms:connormason@icloud.com)
