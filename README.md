@@ -6,6 +6,7 @@ I use this Github account to store the source code for my website projects and e
 
 ## Get in touch.
 
-| [Website](https://cnnr.land) | [Twitter](https://www.twitter.com/conmas/) |
-| [LinkedIn](https://www.linkedin.com/in/cnnrmsn/) | [Instagram](https://www.instagram.com/conmas/) |
-| [Email](mailto:connormason@icloud.com) | [Letterboxd](https://letterboxd.com/conmas/) |
+---|---
+[Website](https://cnnr.land) | [Twitter](https://www.twitter.com/conmas/)
+[LinkedIn](https://www.linkedin.com/in/cnnrmsn/) | [Instagram](https://www.instagram.com/conmas/)
+[Email](mailto:connormason@icloud.com) | [Letterboxd](https://letterboxd.com/conmas/)
