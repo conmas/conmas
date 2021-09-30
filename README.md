@@ -6,9 +6,8 @@ I use this Github account to store the source code for my website projects and e
 
 ## Get in touch.
 
-[🌐 site](https://cnnr.land) · 
-[📣 tweets](https://www.twitter.com/conmas/) · 
-[📷 pics](https://www.instagram.com/conmas/) · 
-[🎞 films](https://letterboxd.com/conmas/) · 
+[🌐 visit site](https://cnnr.land) · 
+[📣 slide into DMs](https://www.twitter.com/conmas/) · 
+[🎞 what I'm watching](https://letterboxd.com/conmas/) · 
 [💼 network](https://www.linkedin.com/in/cnnrmsn/) · 
-[✉️ inbox](mailto:connormason@icloud.com)
+[✉️ send a note](mailto:connormason@icloud.com)
